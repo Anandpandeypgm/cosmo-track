@@ -74,4 +74,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ### Explore the Solar System with CosmoTrack  
-Embark on an interactive journey through space and discover the wonders of the universe!
+Embark on an interactive journey through space and discover the wonders of the universe
