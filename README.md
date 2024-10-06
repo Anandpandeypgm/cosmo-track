@@ -1,5 +1,5 @@
-CosmoTrack: OrbitalVista
-OrbitalVista is an engaging web application that visualizes the solar system in stunning 3D. Users can explore planets, asteroids, and comets while learning about their unique characteristics.
+CosmoTrack:  Interactive Orrery
+CosmoTrack is an engaging web application that visualizes the solar system in stunning 3D. Users can explore planets, asteroids, and comets while learning about their unique characteristics.
 
 Key Features
 🌌 3D Visualization:
