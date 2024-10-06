@@ -18,3 +18,4 @@ Technologies Used
 Built with Three.js and React, OrbitalVista provides smooth animations and a responsive design, ensuring compatibility across various devices.
 
 Embark on your astronomical adventure with CosmoTrack: OrbitalVista and uncover the wonders of the universe!
+Prototype of Project:- https://github.com/Anandpandeypgm/cosmo-track/issues/1#issue-2568492841
