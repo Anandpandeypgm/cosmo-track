@@ -1,23 +1,77 @@
-CosmoTrack:  Interactive Orrery
-CosmoTrack is an engaging web application that visualizes the solar system in stunning 3D. Users can explore planets, asteroids, and comets while learning about their unique characteristics.
+# CosmoTrack: Interactive Orrery
 
-Key Features
-🌌 3D Visualization:
-Navigate through the solar system with realistic planetary motions and elliptical orbits.
+CosmoTrack is a dynamic and interactive web application that visualizes the solar system in stunning 3D. Users can explore planets, asteroids, and comets while learning fascinating facts about these celestial bodies. Built using Three.js and React, the project offers smooth animations and an engaging user experience.
 
-📚 Informative Labels:
-Each celestial body displays its name and essential facts for an enriching educational experience.
+---
 
-🔄 Interactive Controls:
-Zoom, rotate, and explore the solar system from different angles, immersing yourself in the cosmic journey.
+## 🌌 Features
 
-⭐ Starry Background:
-A beautifully crafted star field enhances the aesthetic appeal, creating a captivating space environment.
+- 3D Solar System Visualization:  
+  Experience realistic planetary movements, elliptical orbits, and lifelike 3D rendering.
 
-Technologies Used
-Built with Three.js and React, OrbitalVista provides smooth animations and a responsive design, ensuring compatibility across various devices.
+- Interactive Exploration:  
+  Zoom, rotate, and pan across the solar system to explore planets and celestial bodies from different angles.
 
-Embark on your astronomical adventure with CosmoTrack: OrbitalVista and uncover the wonders of the universe!
+- Informative Labels:  
+  Each celestial object is tagged with its name and key details for an enriching educational experience.
 
-#Prototype of Project:- <img width="950" alt="cosmos pic" src="https://github.com/user-attachments/assets/5dbf9b45-3a9c-4eee-9c5f-c70a3a641445">
+- Starry Background:  
+  A beautifully designed star field creates an immersive space environment.
 
+---
+
+## 🛠 Technologies Used
+
+- [Three.js](https://threejs.org/) for 3D rendering and animations.
+- [React.js](https://reactjs.org/) for building an interactive and responsive UI.
+
+---
+
+## 🚀 Getting Started
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/CosmoTrack.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd CosmoTrack
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the application:
+   ```bash
+   npm start
+   ```
+
+5. Open your browser and visit `http://localhost:3000` to start exploring the solar system!
+
+---
+
+## 📷 Project Preview
+
+![CosmoTrack Preview](https://github.com/user-attachments/assets/5dbf9b45-3a9c-4eee-9c5f-c70a3a641445)
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to submit a pull request or open an issue.
+
+---
+
+## 🌟 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+### Explore the Solar System with CosmoTrack  
+Embark on an interactive journey through space and discover the wonders of the universe!
