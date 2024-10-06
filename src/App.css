@@ -1,0 +1,16 @@
+/* App.css */
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  margin-top: 20px;
+}
+
+body {
+  background-color: black;
+  color: white;
+  margin: 0;
+  overflow: hidden;
+}
